@@ -1,0 +1,10 @@
+
+ Uygulama Adı: Mail Gönderme 
+
+ Alttaki verdiğim e-posta adreslerini kullanarak mail bağlantısı oluşturunuz.
+
+	ahd@hotmail.com                -> Ahmet Haluk Dursun Mtal Mail Gönder
+        meb@gmail.com                  -> Meb'e Mail Gönder
+	ahmetkorkmaz@yahoo.com 	       -> Kişiye Mail Gönder
+        Kendi e-posta adresini kullan  -> Kendi Mail hesabına e-posta Gönder
+

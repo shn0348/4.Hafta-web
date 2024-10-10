@@ -1,0 +1,12 @@
+İşlem Adımları:
+1- Masaüstüne uygulama4 adında bir klasör oluşturunuz.
+2- uygulama4 adında oluşturduğunuz klasörün içine eba videosunu kopyala-yapıştır ile taşıyınız.
+3- uygulama4 içine html sayfası oluşturunuz ve Temel html komutlarını ekleyiniz(html, body, head vb.)
+4- Eba videosunu oluşturduğunuz Hmtl sayfasına ekleyiniz.
+    Video ilgili ayarlar:
+	Video yüksekliği : 400px
+	Video genişliği : 500px
+	Video posteri ekleyiniz.(Poster uygulama içinde)
+	Videonun kontrolleri bulunsun.
+	Videonun bitince tekrar başlasın
+	Videonun başlarken sessiz başlasın

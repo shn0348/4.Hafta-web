@@ -1,0 +1,8 @@
+1- Slaytı Anlat.
+2- Rowspan ve colspan resimlerde göster
+3- U1 yap-yaptır.
+4- U2 Yaptır.
+5- U3 Yap-yaptır
+6- U4 Yaptır.
+7- Worde 5 tane paragraf ekleyerek hizalamayı göster.
+8- U5 Yaptır.

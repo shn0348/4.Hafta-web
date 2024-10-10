@@ -1,0 +1,21 @@
+1- U1 yap-Resim Eklemeyi Anlat.
+2- U2 Yaptır.
+3- Video Eklemeyi anlat.
+4- U3 Yap
+5- U4 Yaptır.
+6- Ses Eklemeyi anlat.
+7- U5 Yap
+8- U6 Yaptır.
+9- Worde 5 tane paragraf ekleyerek hizalamayı göster.
+10- U7 Yaptır.
+11- Link slaytını anlat.
+12- Link(bağlantılar) metin ve link klasörü kullanarak anlat.
+13- U8 yaptır.
+14- Sayfalar arası bağlantıyı anlat.(türkçe)(Anasayfa-yazılar-hakkımızda-iletişim)
+15- U9 yaptır.
+16- Mail bağlantısını anlat.
+17- U10 yaptır.
+18- Sayfa içi bağlantı (Çapa) yöntemini anlat...
+19- U11 yap-yaptır.
+ 
+

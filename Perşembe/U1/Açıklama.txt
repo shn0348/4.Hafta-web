@@ -1,0 +1,25 @@
+	İşlem Adımları:
+  1- Masaüstüne uygulama3 adında bir klasör oluşturunuz.
+  2- Uygulama3 içine resimler klasörü oluşturunuz.
+  3- Gönderdiğim resimleri resimler klasörüne taşıyınız.
+  4- uygulama3 içine html sayfası oluşturunuz ve Temel html komutlarını ekleyiniz(html, body, head vb.)
+  5- manzara resimlerini  oluşturduğunuz Hmtl sayfasına sırasıyla ekleyiniz. Ve Html sayfasını çalıştırınız. 
+     Resimlerin nasıl gözüktüğüne bakınız.
+	
+     resimle ilgili ayarlar:
+		1.Manzara resmi için 
+			resmin yüksekliği:500px
+			resmin genişliği:700px
+			Alternatif Metin: 1. Manzara Resmi.
+			
+		2.Manzara resmi için 
+			resmin yüksekliği:800px
+			resmin genişliği:1000px
+			Alternatif Metin: 2. Manzara Resmi.
+			resmin Kenarlık kalınlığı: 3px olsun
+
+		3.Manzara resmi için 
+			resmin yüksekliği:400px
+			resmin genişliği:750px
+			Alternatif Metin: 3. Manzara Resmi.
+			resmin Kenarlık kalınlığı: 2px olsun
